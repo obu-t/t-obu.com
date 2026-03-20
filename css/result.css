@@ -1,0 +1,296 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+html, html * {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", "sans-serif";
+}
+
+
+.top_b {
+	text-size-adjust: auto;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
+td {
+	vertical-align: middle;
+}
+.st_a0 {
+	color: #00ffff;
+	text-align: center;
+	background-color: #114f0c;
+	width: 400px;
+}
+
+.st_a1 {
+	color: #00ffff;
+	text-align: center;
+	background-color: #114f0c;
+	width: 150px;
+}
+
+.stt_a1 {
+	color: #00ffff;
+	text-align: center;
+	background-color: #114f0c;
+	width: 300px;
+}
+
+.st_a2 {
+	color: #ffff00;
+	text-align: center;
+	background-color: #114f0c;
+	width: 90px;
+}
+
+.stt_a2 {
+	width: 320px;
+}
+
+
+
+/*=================　２０１１年度　=====================*/
+
+.st_2011 {
+	color: darkblue;
+	text-align: center;
+	align-content: center;
+	background-color:whitesmoke;
+}
+
+.stt_2011 {
+	color: blue;
+	text-align: center;
+	height: 40px;
+	margin: 10px;
+	width: 150px;
+}
+/*=================　２０１２年度　=====================*/
+
+.st_2012 {
+	color: darkblue;
+	text-align: center;
+	align-content: center;
+	background-color: aquamarine;
+}
+
+.stt_2012 {
+	color: blue;
+	text-align: center;
+	height: 40px;
+	margin: 10px;
+	width: 150px;
+}
+/*=================　２０１３年度　=====================*/
+
+.st_2013 {
+	color:black;
+	text-align: center;
+	align-content: center;
+	background-color:mistyrose;
+}
+
+.stt_2013 {
+	color: black;
+	text-align: center;
+	height: 40px;
+	margin: 10px;
+	width: 150px;
+}
+/*=================　２０１４年度　=====================*/
+
+.st_2014 {
+	color: darkblue;
+	text-align: center;
+	align-content: center;
+	background-color: aquamarine;
+}
+
+.stt_2014 {
+	color: blue;
+	text-align: center;
+	height: 40px;
+	margin: 10px;
+	width: 150px;
+}
+
+/*=================　２０１５年度　=====================*/
+
+.st_2015 {
+	color: darkblue;
+	text-align: center;
+	align-content: center;
+	background-color:gainsboro;
+}
+
+.stt_2015 {
+	color: blue;
+	text-align: center;
+	height: 40px;
+	margin: 10px;
+	width: 150px;
+}
+
+
+/*=================　２０１６年度　=====================*/
+
+.st_2016 {
+    color: darkblue;
+    text-align: center;
+    align-content: center;
+    background-color: aquamarine;
+}
+.stt_2016 {
+    color: blue;
+    text-align: center;
+    height: 40px;
+    margin: 10px;
+    width: 150px;
+}
+
+/*=================　２０１７年度　=====================*/
+
+.st_2017 {
+	color: darkblue;
+	text-align: center;
+	align-content: center;
+	background-color:antiquewhite;
+}
+.stt_2017 {
+    color: blue;
+    text-align: center;
+    height: 40px;
+    margin: 10px;
+    width: 150px;
+}
+
+/*=================　２０１８年度　=====================*/
+
+.st_2018 {
+	color: darkblue;
+	text-align: center;
+	align-content: center;
+	background-color:cornflowerblue;
+}
+.stt_2018 {
+    color: blue;
+    text-align: center;
+    height: 40px;
+    margin: 10px;
+    width: 150px;
+}
+
+/*=================　２０１９年度　=====================*/
+
+.st_2019 {
+    color: darkblue;
+    text-align: center;
+    align-content: center;
+    background-color:lightyellow;
+}
+
+.stt_2019 {
+    color: blue;
+    text-align: center;
+    height: 40px;
+    margin: 10px;
+    width: 150px;
+}
+
+/*=================　２０２０年度　=====================*/
+
+.st_2020 {
+	color: black;
+	text-align: center;
+	align-content: center;
+	background-color: darkgray ;
+}
+
+.stt_2020 {
+	color:black;
+	text-align: center;
+	height: 40px;
+	margin: 10px;
+	width: 150px;
+}
+
+/*=================　２０２１年度　=====================*/
+
+.st_2021 {
+	color: black;
+	text-align: center;
+	align-content: center;
+	background-color: lightyellow;
+}
+
+.stt_2021 {
+	color: black;
+	text-align: center;
+	height: 40px;
+	margin: 10px;
+	width: 150px;
+}
+
+/*=================　２０２２年度　=====================*/
+
+.st_2022 {
+	color: black;
+	text-align: center;
+	align-content: center;
+	background-color:lightcyan;
+}
+
+.stt_2022 {
+	color: black;
+	text-align: center;
+	height: 40px;
+	margin: 10px;
+	width: 150px;
+}
+/*=================　２０２３年度　=====================*/
+.st_2023 {
+	color: black;
+	text-align: center;
+	align-content: center;
+	background-color: lightgreen;
+}
+.stt_2023 {
+	color: black;
+	text-align: center;
+	align-content: center;
+	background-color: lightgreen;
+	width: 300px;
+}
+/*=================　２０２４年度　=====================*/
+.st_2024 {
+	color: black;
+	text-align: center;
+	align-content: center;
+	background-color:lightgoldenrodyellow;
+}
+
+.stt_2024 {
+	color: black;
+	text-align: center;
+	align-content: center;
+	background-color: lightgoldenrodyellow;
+	width: 300px;
+}
+
+/*=================　２０２５年度　=====================*/
+.st_2025 {
+	color: black;
+	background-color: azure;
+}
+
+tr .stt_2025 {
+	color: black;
+	background-color:azure;
+	width: 300px;
+}

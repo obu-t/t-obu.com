@@ -1,0 +1,121 @@
+﻿@charset"utf-8";
+
+body {
+}
+
+header .h4 {
+    background-color: black;
+}
+
+a.menu_font:visited {
+    text-align: center;
+    color: yellow
+}
+
+td a.menu_cells {
+    text-align: center;
+    color: white;
+}
+
+td a {
+    text-decoration: none;
+}
+
+.in_menu_cell {
+    text-align: center;
+    color: beige;
+    max-width: 700px;
+    height: 60px;
+    background-color: darkgreen;
+}
+
+.m_cells {
+    color: white;
+    font-weight: bold;
+}
+
+.menu_cells {
+    text-align: center;
+    min-width: 150px;
+    max-width: 300px;
+    height: 80px;
+    background-color: darkgreen;
+    font-weight: bold;
+    color:white;
+}
+
+.menu_a {
+    font-weight: bold;
+    color: white;
+}
+
+a, a:hover, a:visited {
+    color: inherit;
+}
+
+span{
+    background-color:skyblue;
+    padding:20px;
+    display:inline-block;
+}
+
+
+/* 　tableタグをdivタグに置き換える　*/
+.divTable {
+    display: table;
+    width: 100%;
+    margin-left:100px;
+}
+
+.divTableRow {
+    display: table-row;
+}
+
+.divTableHeading {
+    background-color: #EEE;
+    display: table-header-group;
+}
+
+.divTableCell, .divTableHead {
+    border: 1px solid #999999;
+    align-items:baseline;
+    text-align:left;
+    display: table-cell;
+    padding: 3px 10px;
+}
+
+.divTableHeading {
+    background-color: #EEE;
+    display: table-header-group;
+    font-weight: bold;
+}
+
+.divTableFoot {
+    background-color: #EEE;
+    display: table-footer-group;
+    font-weight: bold;
+}
+
+.divTableBody {
+    display: table-row-group;
+}
+
+.table1{
+    width: 600px;
+    margin:0 auto;
+}
+/*
+
+<div class="divTable" >
+<div class="divTableBody" >
+<div class="divTableRow" >
+<div class="divTableCell" > セル1</div >
+<div class="divTableCell" > セル2</div >
+</div >
+<div class="divTableRow" >
+<div class="divTableCell" > セル3</div >
+<div class="divTableCell" > セル4</div >
+</div >
+</div >
+</div >
+    */

@@ -1,0 +1,89 @@
+﻿@charset"utf-8";
+
+.st_cell2 {
+	color: #00FFFF;
+	text-align: center;
+	padding: 5px 5px 5px 5px;
+}
+
+.st_cell3 {
+	color: deeppink;
+	text-align: center;
+	font-weight: 700;
+	padding: 5px 5px 5px 5px;
+}
+
+.st_cell1_p {
+	color: #000000;
+	text-align: center;
+	padding: 5px 5px 5px 5px;
+}
+
+.jissi {
+	color: black;
+	background-color:white;
+	font-weight: 700;
+	line-height: 25px;
+	/*opacity: 1.0;*/
+	text-align: center;
+	padding: 5px 5px 5px 5px;
+	height: 30px;
+	width: 200px;
+}
+.jissi2 {
+	color: black;
+	background-color: gray;
+	font-weight: 700;
+	line-height: 25px;
+	/*opacity: 1.0;*/
+	text-align: center;
+	padding: 5px 5px 5px 5px;
+	height: 30px;
+	width: 200px;
+}
+.chusi {
+	color:gray;
+	background-color:aquamarine;
+	font-weight: 700;
+	line-height: 25px;
+	/*opacity: 1.0;*/
+	text-align: center;
+	padding: 5px 5px 5px 5px;
+	height: 30px;
+	width: 189px;
+}
+
+
+.uketsuke {
+	color: black;
+	background-color:yellow;
+	font-weight:700;
+	/*opacity: 1.0;*/
+	text-align: center;
+	padding: 5px 5px 5px 5px;
+	height: 30px;
+	width: 189px;
+}
+
+.shuuryou {
+	color: black;
+	background-color: lightblue;
+	font-weight: 700;
+	/*opacity: 1.0;*/
+	text-align: center;
+	padding: 5px 5px 5px 5px;
+	height: 30px;
+	width: 189px;
+}
+
+
+.auto-style2 {
+	color: black;
+	background-color: aquamarine;
+	opacity: 0.5;
+	font-weight: bold;
+	text-align: center;
+	padding: 5px 5px 5px 5px;
+	margin:5px;
+	height: 30px;
+}

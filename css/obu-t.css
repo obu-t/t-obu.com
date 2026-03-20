@@ -1,0 +1,108 @@
+﻿@charset"utf-8";
+
+.header h2 {
+    text-align: center;
+    font-size: large;
+    color: #ffff00;
+}
+.header h4 {
+    box-sizing: border-box;
+    background-color: #888888;
+    color:white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+body {
+	color: #00FFFF;
+	text-align: center;
+	/*padding: 5px 5px 5px 5px;*/
+	background-color:white;
+}
+
+table {
+	align-items: center;
+	align-content: center;
+	align-self: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.st_body {
+    align-self: center;
+    align-content: center;
+    align-items: center;
+    background-color: #40b540;
+    /*color: #99ff66;*/
+    text-align: center;
+	margin-left:auto;
+	margin-right:auto;
+	padding:20px;
+}
+
+.img_top {
+    background: url(http://obu-t.com/css/image/logo1.gif);
+    width: 410px;
+    height: 66px;
+    border-width: 0;
+}
+
+
+/*.menu_cell {
+    text-align: center;
+    color: beige;
+    max-width: 800px;
+    height:60px;
+    background-color: darkgreen;
+}*/
+
+.menu_font {
+    color: white;
+}
+
+.news_sentense {
+    text-align: center;
+    color: #b6ff00;
+}
+
+.news_sentense_left {
+    text-align: left;
+    color: #b6ff00;
+}
+
+.t_l {
+    text-align: left;
+    align-items: center;
+    align-content: center;
+    align-self: center;
+}
+
+.text_c {
+    text-align: center;
+}
+
+<!-- 　メールアドレス -->
+.m_add {
+    color: #66FFFF;
+}
+
+/*トップページへ戻るボタン*/
+.top_button {
+    width: 200px;
+    /*height:50px;*/
+    background-color: orange;
+    text-size-adjust: auto;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+
+/*entry_page*/
+
+
