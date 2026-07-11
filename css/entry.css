@@ -1,0 +1,77 @@
+﻿@charset"utf-8";
+
+body {
+}
+
+
+.entry_text_c {
+    text-align: center;
+}
+
+
+.ent-cell0 {
+    text-align: center;
+    padding: 5px;
+    color: yellow;
+    background-color: darkgreen;
+    min-height: 41px;
+    min-width: 100px;
+}
+
+.ent-cell {
+    min-width: 120px;
+    min-height:55px;
+    text-align: center;
+    color:cyan;
+    background-color: #333333;
+}
+
+.ent-yet {
+    min-width: 120px;
+    min-height: 55px;
+    text-align: center;
+    color: black;
+    background-color: antiquewhite;
+}
+.ent-yet2 {
+    min-width: 120px;
+    min-height: 55px;
+    text-align: center;
+    color: black;
+    background-color:gray;
+}
+.ent-active {
+    min-width: 120px;
+    min-height: 55px;
+    text-align: center;
+    color: black;
+    background-color:yellow;
+}
+.ent-notuse {
+    min-width: 120px;
+    min-height: 55px;
+    text-align: center;
+    color:gray;
+    background-color:aquamarine;
+}
+
+.ent-now {
+    min-width: 120px;
+    min-height: 55px;
+    text-align: center;
+    color: black;
+    background-color: yellow;
+}
+
+.draw {
+    color: blue;
+    font-size: large;
+    font-weight: 500;
+}
+
+.draw_tr {
+    background-color:pink;
+    margin: 20px;
+    padding: 20px;
+    color:blue;
+}
